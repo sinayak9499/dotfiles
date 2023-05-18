@@ -1,0 +1,62 @@
+{
+    "workbench.iconTheme": "bearded-icons",
+    "azureFunctions.showProjectWarning": false,
+    "azureResourceManagerTools.parameterFiles": {
+        "c:\\users\\sinayak\\ec.vl.core.organizationmanagementservice\\installer\\deployment\\omstojarvisfuncapp.json": "omstojarvisfuncapp.parameters.json"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "onFocusChange",
+    "workbench.tree.indent": 20,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "workbench.editor.wrapTabs": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.formatOnPaste": true, // required 
+    "editor.formatOnType": true, // required
+    "editor.formatOnSave": true, // optional 
+    "editor.formatOnSaveMode": "file",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.userWords": [
+        "fluentui",
+        "sinayak",
+        "vlcentral",
+        "yaref"
+    ],
+    "workbench.editor.enablePreview": false, // required to format on save
+    "jest.autoRun": "false",
+    "workbench.colorTheme": "poimandres",
+    "editor.fontFamily": "'JetBrainsMonoNL'",
+    "editor.accessibilitySupport": "off",
+    "remote.SSH.remotePlatform": {
+        "10.171.30.157": "windows"
+    },
+    "terminal.integrated.profiles.windows": {
+        "PowerShell_7": {
+        "source": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+        "icon": "terminal-powershell"
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell_7",
+    "git.openRepositoryInParentFolders": "always",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false
+    },
+    "editor.stickyScroll.enabled": true,
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "editor.minimap.size": "fill",
+    "vscode-pets.theme": "forest",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "workbench.editor.untitled.hint": "hidden",
+    "window.zoomLevel": 1
+}
